@@ -1,18 +1,24 @@
-## Getting Started
+## Number Guessing Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the Number Guessing Game! This simple Java application allows users to guess a randomly generated number between 1 and 100.
 
-## Folder Structure
+How to Play:
 
-The workspace contains two folders by default, where:
+Enter your guess in the text field provided.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Click the "Guess" button to submit your guess.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+You will receive feedback indicating whether your guess was too high, too low, or correct.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Keep guessing until you correctly guess the random number.
 
-## Dependency Management
+Features:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Randomly generated number between 1 and 100.
+
+Feedback messages to guide the player.
+
+Display of the number of attempts made.
+
+User-friendly graphical interface.
+
